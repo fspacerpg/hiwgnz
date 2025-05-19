@@ -1,7 +1,9 @@
 # hiwgnz
-Microsite for the History of the Imperium Working Group New Zealand that supported Traveller
+Microsite for the History of the Imperium Working Group New Zealand that supported Traveller.
 
 The HIWGNZ logo on this site is copyright FSpace Publications. All Rights Reserved.
+
+FED RPG and FSpaceRPG are trademarks of Martin Rait. All Rights Reserved.
 
 Refer to products linked from this page for relevant content copyrights.
 
